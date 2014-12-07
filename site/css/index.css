@@ -1,0 +1,58 @@
+body {
+  height: 100%;
+  background: url('../images/bg.jpg'), url('../images/bg(2).jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat, no-repeat;
+  background-size: auto auto, auto auto;
+  background-position: center center, center center;
+  background-attachment: fixed, fixed;
+  font: 100 3.438em/1.38 Roboto;
+  color: rgb(255, 255, 255);
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 2;
+  width: 100%;
+  height: 609px;
+  margin-top: 8px;
+  background-color: rgb(184, 181, 181);
+}
+
+.image {
+  display: block;
+  width: 158px;
+  height: auto;
+  margin: 54px auto 0;
+  box-shadow: 9px 14px 0 rgba(0, 0, 0, 0.8);
+  overflow: hidden;
+}
+
+.text {
+  width: 27.1666666666%;
+  min-height: 61px;
+  margin: 38px auto 0;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 100%;
+  height: 85px;
+  margin-top: -581px;
+  padding-left: 30px;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 0.727em;
+  line-height: 1.38;
+  text-align: left;
+  color: rgb(30, 116, 0);
+}
