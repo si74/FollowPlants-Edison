@@ -1,0 +1,98 @@
+[07-Dec-2014 05:35:30 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 34
+[07-Dec-2014 05:39:33 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 05:39:55 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 05:39:56 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 05:39:57 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 05:41:10 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 05:42:23 America/New_York] PHP Warning:  file_put_contents(data.json): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 33
+[07-Dec-2014 06:01:46 America/New_York] PHP Notice:  Undefined variable: tempArray in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:01:46 America/New_York] PHP Notice:  Undefined variable: tempArray in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:14 America/New_York] PHP Notice:  Use of undefined constant data - assumed 'data' in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:14 America/New_York] PHP Notice:  Use of undefined constant text - assumed 'text' in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:14 America/New_York] PHP Warning:  file(datatext): failed to open stream: No such file or directory in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:16 America/New_York] PHP Notice:  Use of undefined constant data - assumed 'data' in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:16 America/New_York] PHP Notice:  Use of undefined constant text - assumed 'text' in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:16 America/New_York] PHP Warning:  file(datatext): failed to open stream: No such file or directory in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:02:29 America/New_York] PHP Warning:  file(data.text): failed to open stream: No such file or directory in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 26
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:03:34 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 26
+[07-Dec-2014 06:04:56 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:04:56 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:04:56 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:04:58 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:04:58 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:04:58 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:05:09 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:05:09 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:05:09 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:05:10 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:05:10 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:05:10 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:29 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:29 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:29 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:31 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:31 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:31 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:41 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:41 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:41 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:42 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:42 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:42 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:08:52 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:09:07 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:09:07 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:09:07 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:09:08 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:09:08 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:09:08 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:09:11 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:09:11 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:09:11 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:10:27 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:10:27 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 16
+[07-Dec-2014 06:10:27 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 27
+[07-Dec-2014 06:11:44 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 14
+[07-Dec-2014 06:11:44 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:11:44 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 26
+[07-Dec-2014 06:11:45 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 14
+[07-Dec-2014 06:11:45 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 15
+[07-Dec-2014 06:11:45 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 26
+[07-Dec-2014 06:19:24 America/New_York] PHP Notice:  Array to string conversion in /var/www/phpdev.ninja/html/api/plantTemp.php on line 11
+[07-Dec-2014 06:19:24 America/New_York] PHP Notice:  Array to string conversion in /var/www/phpdev.ninja/html/api/plantTemp.php on line 12
+[07-Dec-2014 06:19:24 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:19:24 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:19:24 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 06:19:56 America/New_York] PHP Notice:  Array to string conversion in /var/www/phpdev.ninja/html/api/plantTemp.php on line 12
+[07-Dec-2014 06:19:56 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:19:56 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:19:56 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 06:20:18 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:20:18 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:20:18 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 06:21:00 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:21:00 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:21:00 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 06:21:01 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:21:01 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:21:01 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 06:21:03 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 06:21:03 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 06:21:03 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 09:58:24 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 09:58:24 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 09:58:24 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 10:10:49 America/New_York] PHP Warning:  fopen(data.txt): failed to open stream: Permission denied in /var/www/phpdev.ninja/html/api/plantTemp.php on line 18
+[07-Dec-2014 10:10:49 America/New_York] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 19
+[07-Dec-2014 10:10:49 America/New_York] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/phpdev.ninja/html/api/plantTemp.php on line 31
+[07-Dec-2014 12:11:17 America/New_York] PHP Notice:  Undefined variable: curl in /var/www/phpdev.ninja/html/api/plantTemp.php on line 35
