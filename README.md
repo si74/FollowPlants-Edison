@@ -1,4 +1,4 @@
-FollowPlants Project
+FollowPlants Project <br/>
 Hack Battle @ TNW
 
 This hack utilized the Intel Edison board and temperature sensor from Seeed Studio Grove starter kit. <br/>
